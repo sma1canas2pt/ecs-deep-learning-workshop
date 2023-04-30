@@ -1,0 +1,12 @@
+{
+    "notebook.output.textLineLimit": 50,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": false,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": false
+    },
+    "explorerExclude.backup": {}
+}
